@@ -22,8 +22,11 @@
   </a>
 </p>
 
-
+<p align="center">
+<img alig src=https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAlekseeva&layout=compact)(https://github.com/LinaAlekseeva/github-readme-stats)/>
+</p>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=LinaAlekseeva&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
