@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="500"/>
   </a>
 
+
 <p align="center">
   <a href="https://github.com/LinaAlekseeva/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/LinaAlekseeva/github-profile-trophy"/> 
@@ -39,10 +40,13 @@
     <img src="https://img.shields.io/github/license/LinaAlekseeva/github-profile-trophy"/> 
   </a>
 </p>
-  
+ 
+
  <img src="https://komarev.com/ghpvc/?username=your-github-LinaAlekseeva&style=flat-square&color=blue" alt=""/>
  
-  
+  ---
+  ### :fire: My Stats :
+
 <p align="center">
   </a>
 </p>
