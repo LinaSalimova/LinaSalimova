@@ -3,10 +3,15 @@
 # I’m a QA Automation engineer
 
 
-<p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500"/>
+</div>
+
+<div id="header" align="center">
+  <a href="https://www.linkedin.com/in/lina-alekseeva-184867240">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="500"/>
+  </a>
+
 <p align="center">
   <a href="https://github.com/LinaAlekseeva/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/LinaAlekseeva/github-profile-trophy"/> 
