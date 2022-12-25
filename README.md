@@ -26,6 +26,10 @@
     <img src="https://img.shields.io/github/license/LinaAlekseeva/github-profile-trophy"/> 
   </a>
 </p>
+  
+ <img src="https://komarev.com/ghpvc/?username=your-github-LinaAlekseeva&style=flat-square&color=blue" alt=""/>
+ 
+  
 <p align="center">
   </a>
 </p>
