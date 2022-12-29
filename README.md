@@ -18,12 +18,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Gradle.png" title="Gradle" **alt="Gradle" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/JUnit5.png" title="JUnit5" **alt="JUnit5" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenide.png" title="Selenide" **alt="Selenide" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenoid.png" title="Selenoid" **alt="Selenoid" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/appium.png" title="Appium" **alt="Appium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Allure_Report.png" title="Allure" **alt="Allure" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Allure_Report.png" title="Allure" **alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
   </div>
 
 
