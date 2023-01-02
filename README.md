@@ -30,6 +30,8 @@
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/appium.png" title="Appium" **alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Allure_Report.png" title="Allure" **alt="Allure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
+  
+  
   </div>
 
 
