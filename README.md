@@ -8,10 +8,15 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
-  ###  Languages and Tools :
+  ###  Languages: 
+  <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>&nbsp;
+   </div>
+  
+  ###  Tools :
 
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Intelij_IDEA.png" title="IDEA" **alt="IDEA" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>&nbsp;
@@ -24,7 +29,6 @@
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenoid.png" title="Selenoid" **alt="Selenoid" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/appium.png" title="Appium" **alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Allure_Report.png" title="Allure" **alt="Allure" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
   </div>
 
