@@ -40,22 +40,8 @@
   </a>
 
 
-<p align="center">
-  <a href="https://github.com/LinaAlekseeva/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/LinaAlekseeva/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/LinaAlekseeva/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/LinaAlekseeva/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/LinaAlekseeva/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/LinaAlekseeva/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/LinaAlekseeva/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/LinaAlekseeva/github-profile-trophy"/> 
-  </a>
-</p>
  
-
+<p align="center">
  <img src="https://komarev.com/ghpvc/?username=your-github-LinaAlekseeva&style=flat-square&color=blue" alt=""/>
  
   ---
