@@ -48,11 +48,12 @@
   ### :fire: My Stats :
 
 <p align="center">
-  </a>
+  <img alig src=https://github-readme-stats.vercel.app/api?username=LinaAlekseeva&show_icons=true&theme=tokyonight)/>
 </p>
 
+
 <p align="center">
-<img alig src=https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAlekseeva&layout=compact)(https://github.com/LinaAlekseeva/github-readme-stats)/>
+ <img alig src=https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAlekseeva&layout=compact)](https://github.com/LinaAlekseeva/github-readme-stats)
 </p>
 
 <p align="center">
