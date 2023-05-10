@@ -68,7 +68,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinaAlekseeva&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinaAlekseeva&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinaAlekseeva&theme=radical)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
   
