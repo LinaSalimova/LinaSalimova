@@ -51,7 +51,7 @@ Implemented during Java Software Test Automation training <a target="_blank" hre
 <table width="100%" border='0'>
    <tr> 
     <td valign="middle"><strong>Тестовые проекты</strong></td><td valign="middle"><strong>Что особенного</strong></td></tr>
-    <td valign="middle">  :heavy_check_mark: UI Autotests for <a target="_blank" href="https://www.amazon.com" > amazon.com </a></br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/amazon-project">diplom-ui-amazon</a></td><td valign="middle">- Page Object</br>- Parameterized Tests</br>- Parameterized Assembly</br>-Test cases for auto- and manual testing</td></tr>
+    <td valign="middle">  :heavy_check_mark: UI Autotests for <a target="_blank" href="https://www.amazon.com" > amazon.com </a></br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/amazon-project">diplom-ui-amazon</a></td><td valign="middle">- Page Object</br>- Parameterized Tests</br>- Parameterized Assembly</br>- Test cases for auto- and manual testing</td></tr>
     <tr> <td valign="middle"> :heavy_check_mark: API Autotests for <a target="_blank" href="https://www.amazon.com" > amazon.com </a></br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-api-tinkoff">diplom-api-tinkoff</a></td><td valign="middle">- Модели получаемых данных описаны с помощью библиотеки Lombok</br>- Использованы спецификации</br>- Сериализация/десериализация объектов с использованием библиотеки Gson</td></tr>
     <tr> <td valign="middle">:heavy_check_mark: Mobile Autotests for Wikipedia mobile application</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-mobile-wiki">diplom-mobile-wiki</a></td><td valign="middle">- Степовой подход для описания Allure Step</br>- Различные файлы конфигураций для запуска тестов:</br> <code>  - на сервисе Browserstack с помощью Jenkins</code></br><code>  - на локально развернутом эмуляторе Android Studio</code></td></tr>
     <tr> <td valign="middle">Во всех проектах дипломной работы также настроены:</td><td valign="middle">- Интеграция с Allure-TestOps и с Jira</br>- Отправка уведомления в Telegram о результатах прогона тестов</td></tr>
@@ -60,7 +60,7 @@ Implemented during Java Software Test Automation training <a target="_blank" hre
   </br>
 
   ---
-   <h2>Статистика</h2>
+   <h2>Statistics</h2>
 <br>
 </p>
 
