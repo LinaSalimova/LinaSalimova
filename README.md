@@ -44,6 +44,10 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=your-github-LinaAlekseeva&style=flat-square&color=blue" alt=""/>
  
+  ### My projects:
+#### :heavy_check_mark: UI Autotests for [pilulka.cz](https://www.pilulka.cz/) website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=pilulka-project)](https://github.com/XeniaBogatko/pilulka-project)
+  
   ---
   ### :fire: My Stats :
 
