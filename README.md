@@ -59,13 +59,17 @@
   </br>
 
   ---
-  ### :fire: My Stats :
-
-
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=LinaAlekseeva&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+   <h2>Статистика</h2>
+<br>
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinaAlekseeva&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinaAlekseeva&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinaAlekseeva&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinaAlekseeva&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinaAlekseeva&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
   
  
