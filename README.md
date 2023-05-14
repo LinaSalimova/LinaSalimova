@@ -3,15 +3,16 @@
 
 # I’m a QA Automation engineer 
  ### :hammer_and_wrench: About me 
- 
+
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
   
+<div id="header" align="center">  
   <table width="100%" border='0'>
    <tr> 
-  <tr><td width="15%" valign="bottom"><img src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"></td><td valign="middle"></br> Казанский (Приволжский) федеральный университет </br> Введение в рограммирование на Java</td>
+  <tr><td width="15%" valign="bottom"><img src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"> </td><td valign="middle"></br> Казанский (Приволжский) федеральный университет </br> Введение в программирование на Java</td>
  <tr><td width="15%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/10ade88bd24e1860e80490b7c4c98561.png/s/600x/a/159627/sc/101"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
