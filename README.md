@@ -11,7 +11,7 @@
   
   <table width="100%" border='0'>
    <tr> 
-  <tr><td width="15%" valign="bottom"><img src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"></td><td valign="middle"></br> Казанский (Приволжский) федеральный университет </br> Программирование на Java</td>
+  <tr><td width="15%" valign="bottom"><img src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"></td><td valign="middle"></br> Казанский (Приволжский) федеральный университет </br> Введение в рограммирование на Java</td>
  <tr><td width="15%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/10ade88bd24e1860e80490b7c4c98561.png/s/600x/a/159627/sc/101"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
