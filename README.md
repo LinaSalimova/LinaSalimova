@@ -3,11 +3,19 @@
 
 # I’m a QA Automation engineer 
  ### :hammer_and_wrench: About me 
+ 
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
-
+  
+  <table width="100%" border='0'>
+   <tr> 
+  <tr><td width="30%" valign="bottom"><img src=" "></td><td valign="middle"></br> Казанский (Приволжский) федеральный университет </br> Программирование на Java</td>
+ <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+    </br>
   ###  Languages: 
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
