@@ -3,8 +3,8 @@
 
 # I’m a QA Automation engineer 
  ### :hammer_and_wrench: About me 
-  I'm a QA engineer with more than 1.5 years of experience in desktop applications, web and mobile testing, and have automation skills
-
+Я QA-инженер с более чем 1,5 лет опыта работы с desktop applications, web and mobile testing, владею навыками автоматизации.
+  
 <div id="header" align="center">  
   <table width="100%" border='0'>
    <tr> 
