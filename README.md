@@ -17,7 +17,7 @@
   ###  Languages: 
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://avatars.mds.yandex.net/i?id=001259d64483b887304e3d514218275b635a3538-9287521-images-thumbs&n=13" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>&nbsp;
    </div>
   
