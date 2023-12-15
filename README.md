@@ -1,9 +1,14 @@
-<div id="header" align="center">
-  Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!&fontAlignY=35&fontSize=60&desc=Wellcome%20to%20my%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=25)
+<p align="center">
+  <img title="|Lina Alekseeva|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Lina+Alekseeva;">
+</p>
+<p align="center">
+  <img title="|I'm a QA Automation Engineer |" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=QA+Automation+Engineer;">
+</p>
 
-# I’m a QA Automation engineer 
+
  ### :hammer_and_wrench: About me 
-Я QA-инженер с более чем 1,5 лет опыта работы с desktop applications, web and mobile testing, владею навыками автоматизации.
+I am a QA engineer with more than 2+ years of experience working with desktop applications, web and mobile testing
   
 <div id="header" align="center">  
   <table width="100%" border='0'>
@@ -43,7 +48,7 @@
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/lina-alekseeva-184867240">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="500"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150"/>
   </a>
 
 
