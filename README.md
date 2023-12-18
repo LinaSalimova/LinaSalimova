@@ -13,15 +13,15 @@ I am a QA engineer with more than 2+ years of experience working with desktop ap
 <div id="header" align="center">  
   <table width="100%" border='0'>
    <tr> 
-  <tr><td width="15%" valign="bottom"><img src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"> </td><td valign="middle"></br> Казанский (Приволжский) федеральный университет </br> Введение в программирование на Java</td>
- <tr><td width="15%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/10ade88bd24e1860e80490b7c4c98561.png/s/600x/a/159627/sc/101"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+  <tr><td width="15%" valign="bottom"><img src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"> </td><td valign="middle"></br> Kazan Federal University </br> Introduction to Java Programming </td>
+ <tr><td width="15%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/10ade88bd24e1860e80490b7c4c98561.png/s/600x/a/159627/sc/101"></td><td valign="middle"> School of Test Automation Engineers  <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
     </br>
     
   ###  Languages: 
   <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
    <img src="https://pic.rutubelist.ru/user/5c/34/5c34ee4a7766551ce8014dd6734c8dbe.jpg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>&nbsp;
    </div>
@@ -62,11 +62,11 @@ Implemented during Java Software Test Automation training <a target="_blank" hre
 
 <table width="100%" border='0'>
    <tr> 
-    <td valign="middle"><strong>Тестовые проекты</strong></td><td valign="middle"><strong>Что особенного</strong></td></tr>
-    <td valign="middle">  :heavy_check_mark: UI  Autotests for <a target="_blank" href="https://store.steampowered.com" >steam.com </a></br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/steam-diplom-ui">diplom-ui-steam <a href="https://store.steampowered.com/"><code><img width="5%" title="Steam" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></code></a>  </a></td><td valign="middle">- Page Object </br>- Параметризованная сборка </br>- Тест-кейсы авто- и ручного тестирования </br> - owner.config </td></tr>
-    <tr> <td valign="middle"> :heavy_check_mark: API Autotests for <a target="_blank" href="https://reqres.in/" > reqres.in </a></br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/rest-api-reqres">diplom-api-reqres</a></td><td valign="middle">- Модели получаемых данных описаны с помощью библиотеки Lombok</br>- Использованы спецификации</br>- Сериализация/десериализация объектов с использованием библиотеки Gson</td></tr>
-    <tr> <td valign="middle">:heavy_check_mark: Mobile Autotests for <a target="_blank" href="https://ru.wikipedia.org/" > wikipedia.org </a> mobile application</br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/wikipedia">diplom-mobile-wikipedia </a></td><td valign="middle">- Степовой подход для описания Allure Step</br>- Различные файлы конфигураций для запуска тестов:</br> <code>  - на сервисе Browserstack с помощью Jenkins</code></br><code>  - на локально развернутом эмуляторе Android Studio</code></td></tr>
-    <tr> <td valign="middle">Во всех проектах дипломной работы также настроены:</td><td valign="middle">- Интеграция с Allure-TestOps и с Jira</br>- Отправка уведомления в Telegram о результатах прогона тестов</td></tr>
+    <td valign="middle"><strong> Test projects </strong></td><td valign="middle"><strong> What's special </strong></td></tr>
+    <td valign="middle">  :heavy_check_mark: UI  Autotests for <a target="_blank" href="https://store.steampowered.com" >steam.com </a></br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/steam-diplom-ui">diplom-ui-steam <a href="https://store.steampowered.com/"><code><img width="5%" title="Steam" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></code></a>  </a></td><td valign="middle">- Page Object </br>- Parameterized Test </br>- Test cases for automatic and manual testing </br> - owner.config </td></tr>
+    <tr> <td valign="middle"> :heavy_check_mark: API Autotests for <a target="_blank" href="https://reqres.in/" > reqres.in </a></br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/rest-api-reqres">diplom-api-reqres</a></td><td valign="middle">- The resulting data models are described using the Lombok library </br>- Specifications used </br> - Serializing/deserializing objects using the Gson library </td></tr>
+    <tr> <td valign="middle">:heavy_check_mark: Mobile Autotests for <a target="_blank" href="https://ru.wikipedia.org/" > wikipedia.org </a> mobile application</br> Project: <a target="_blank" href="https://github.com/LinaAlekseeva/wikipedia">diplom-mobile-wikipedia </a></td><td valign="middle"> - Step approach for describing Allure Step </br> - Various configuration files for running tests:</br> <code>  - on the Browserstack service using Jenkins </code></br><code>  - on a locally deployed Android Studio emulator </code></td></tr>
+    <tr> <td valign="middle"> All thesis projects are also configured with: </td><td valign="middle"> - Integration with Allure-TestOps and Jira </br> - Sending a notification to Telegram about the results of running tests </td></tr>
    </tr>
   </table>
   </br>
