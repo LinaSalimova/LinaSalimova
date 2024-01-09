@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!&fontAlignY=35&fontSize=60&desc=Wellcome%20to%20my%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=25)
 <p align="center">
-  <img title="|Lina Alekseeva|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Lina+Alekseeva;">
+  <img title="|Alina Salimova|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Lina+Alekseeva;">
 </p>
 <p align="center">
   <img title="|I'm a QA Automation Engineer |" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=QA+Automation+Engineer;">
