@@ -22,7 +22,7 @@ I am a QA engineer with more than 2+ years of experience working with desktop ap
   ###  Languages: 
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://pic.rutubelist.ru/user/5c/34/5c34ee4a7766551ce8014dd6734c8dbe.jpg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>&nbsp;
    </div>
   
@@ -35,7 +35,7 @@ I am a QA engineer with more than 2+ years of experience working with desktop ap
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>&nbsp; 
+  <img src="https://www.svgrepo.com/show/373757/light-gradle.svg" title="Gradle" **alt="Gradle" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/JUnit5.png" title="JUnit5" **alt="JUnit5" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenoid.png" title="Selenoid" **alt="Selenoid" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/appium.png" title="Appium" **alt="Appium" width="40" height="40"/>&nbsp;
