@@ -54,7 +54,7 @@ I am a QA engineer with more than 2+ years of experience working with desktop ap
 
  
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-LinaAlekseeva&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=your-github-LinaSalimova&style=flat-square&color=blue" alt=""/>
  
 ### Graduation project
 
@@ -76,11 +76,11 @@ Implemented during Java Software Test Automation training <a target="_blank" hre
 <br>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinaAlekseeva&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinaAlekseeva&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinaAlekseeva&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinaAlekseeva&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinaAlekseeva&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinaSalimova&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LinaSalimova&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LinaSalimova&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LinaSalimova&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LinaSalimova&theme=radical)
 
 
 
